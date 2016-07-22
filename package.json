@@ -25,5 +25,9 @@
   "homepage": "https://github.com/fr3r/lsdj-song#readme",
   "dependencies": {
     "lodash": "^4.13.1"
+  },
+  "devDependencies": {
+    "tape": "^4.6.0",
+    "tape-catch": "^1.0.6"
   }
 }
