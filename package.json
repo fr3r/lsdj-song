@@ -1,0 +1,29 @@
+{
+  "name": "lsdj-song",
+  "version": "0.1.0",
+  "description": "A npm library which converts binary .lsdsng files to a legible Javascript object.",
+  "main": "lib/lsdj.js",
+  "scripts": {
+    "test": "node test/lsdj.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fr3r/lsdj-song.git"
+  },
+  "keywords": [
+    "lsdj",
+    "song",
+    "chiptune",
+    "gb",
+    "gameboy"
+  ],
+  "author": "fr3r",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fr3r/lsdj-song/issues"
+  },
+  "homepage": "https://github.com/fr3r/lsdj-song#readme",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  }
+}
